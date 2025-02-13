@@ -1,0 +1,2 @@
+ALTER TABLE cfs
+MODIFY seasonsID CHAR(10);
